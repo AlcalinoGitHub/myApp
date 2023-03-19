@@ -25,6 +25,7 @@
 <a href = "/products">products</a> <br>
 <a href = "/register">register</a> <br>
 <a href = "/login">login</a> <br>
+<a href = "/users">users</a> <br>
 
 <button on:click = {handleClick}>Place Order</button>
 
